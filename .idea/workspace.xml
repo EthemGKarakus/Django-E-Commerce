@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51101ab1-b82b-4904-b95d-69d131ba5494" name="Default Changelist" comment="" />
+    <list default="true" id="51101ab1-b82b-4904-b95d-69d131ba5494" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/product/models.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +21,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1dRnAoh2lr8ZiGD8dsd4m9GUOPi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,7 +38,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="mysite" type="Python.DjangoServer" factoryName="Django server">
@@ -70,7 +77,8 @@
       <updated>1592396632442</updated>
       <workItem from="1592396634911" duration="153000" />
       <workItem from="1592396790096" duration="25801000" />
-      <workItem from="1592494927027" duration="902000" />
+      <workItem from="1592494927027" duration="1539000" />
+      <workItem from="1592497917270" duration="280000" />
     </task>
     <servers />
   </component>
@@ -82,14 +90,14 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="137" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1592398812981" />
-    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1592396787217">
+    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1592497912754">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1592396787217" />
-    <state x="205" y="48" key="SettingsEditor" timestamp="1592398793816">
+    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1592497912754" />
+    <state x="205" y="48" key="SettingsEditor" timestamp="1592498205428">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="205" y="48" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1592398793816" />
+    <state x="205" y="48" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1592498205428" />
     <state x="539" y="51" width="585" height="592" key="find.popup" timestamp="1592409125990">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
